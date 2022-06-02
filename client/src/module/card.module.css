@@ -1,0 +1,20 @@
+.tamaño{
+    width: 350px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    /* max-width: 1100px; */
+    justify-content: space-evenly;
+    
+}
+
+.card{
+    justify-content: space-evenly;
+    width: 380px;
+    height:600px;
+}
